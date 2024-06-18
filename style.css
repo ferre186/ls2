@@ -1,0 +1,148 @@
+.container {
+  max-width: 1140px;
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+body{
+  background: gold;
+}
+
+.sibtitle {
+  max-width: 1140px;
+  width: 100%;
+  height: 99px;
+  background: green;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  margin-bottom: 25px;
+  border-radius: 20px;
+  margin-top: 25px;
+}
+
+.text__subtitle-wrap {
+  color: greenyellow;
+  font-size: 22px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.banner__title {
+  border: #FF99FF solid 5px;
+  border-radius: 50px;
+}
+
+.banner__wrap {
+  background: #66CCFF;
+  height: 120px;
+  text-align: center;
+  padding: 25px 25px 25px 25px;
+  border-radius: 50px;
+}
+
+.bg {
+  font-size: 22px;
+  font-weight: 600;
+  justify-content: center;
+  text-align: center;
+}
+
+.banner__link {
+  max-width: 1140px;
+  width: 100%;
+  height: 99px;
+  background: green;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  margin-bottom: 25px;
+  border-radius: 20px;
+}
+
+.text__link {
+  color: greenyellow;
+  font-size: 22px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.text__logo {
+  justify-content: center;
+  text-align: center;
+}
+
+.button {
+  background: #66CCFF;
+  box-shadow: 25px 25px 25px #66CCFF;
+  border: none;
+  border-radius: 25px;
+  transition: 0.3s;
+}
+
+.button:hover{
+  background: #FF99FF;
+  box-shadow: 25px 25px 25px #FF99FF;
+}
+
+.button__page{
+  justify-content: center;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.avto{
+  max-width: 1140px;
+  width: 100%;
+  height: 99px;
+  background: green;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  margin-bottom: 25px;
+  border-radius: 20px;
+  margin-top: 25px;
+}
+
+.avto__text{
+  color: greenyellow;
+  font-size: 22px;
+  font-weight: 400;
+  text-align: center;
+  justify-content: center;
+  padding: 30px;
+}
+
+.vidio{
+  justify-content: center;
+  align-items: center;  
+  display: flex;
+}
+
+.text__jet{
+  background: #66CCFF;
+  height: 120px;
+  text-align: center;
+  padding: 25px 25px 25px 25px;
+  border-radius: 50px;
+}
+
+.jet__text-title{
+  border: #FF99FF solid 5px;
+  border-radius: 50px;
+}
+
+.batten{
+  background: #FF99FF;
+  box-shadow: 25px 25px 25px #FF99FF;
+  border: none;
+  border-radius: 25px;
+  transition: 0.3s;
+}
+
+.batten:hover{
+  background: #66CCFF;
+  box-shadow: 25px 25px 25px #66CCFF;
+}
